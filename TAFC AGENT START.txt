@@ -1,0 +1,16 @@
+tafc_agent -p 20001 -c ca.cer -k ca.key
+http://php-compiler.soft112.com/
+
+http://php-compiler.soft112.com/
+
+
+seting up charges and commission on t24
+
+FT.CHARGE.TYPE
+FT.COMMISSION.TYPE
+
+CUSTOMER ID: 111614
+
+ACCOUNT NUM: 11193
+
+CURRENCY : USD
